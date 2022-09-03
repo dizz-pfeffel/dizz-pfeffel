@@ -19,5 +19,8 @@ Languages: Python
            Bash
            Javascript
                |- NodeJS
+           HTML
+           CSS
+           Golang
 [dizz@arch ~]$ reboot
 ```
