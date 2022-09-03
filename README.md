@@ -1,4 +1,5 @@
-```[dizz@arch ~]$ ls
+```
+[dizz@arch ~]$ ls
  Desktop
  Documents
  Downloads
@@ -18,4 +19,5 @@ Languages: Python
            Bash
            Javascript
                |- NodeJS
-[dizz@arch ~]$ reboot```
+[dizz@arch ~]$ reboot
+```
