@@ -15,6 +15,7 @@
 Interests: Finding security vulnerabilities
            Linux privilege escalation
            Having fun with scripting languages
+           Webhacking
 Languages: Bash
            CSS
            Golang
