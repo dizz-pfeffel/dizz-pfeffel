@@ -15,12 +15,12 @@
 Interests: Finding security vulnerabilities
            Linux privilege escalation
            Having fun with scripting languages
-Languages: Python
-           Bash
-           Javascript
-               |- NodeJS
-           HTML
+Languages: Bash
            CSS
            Golang
+           HTML
+           Javascript
+               |- NodeJS
+           Python
 [dizz@arch ~]$ reboot
 ```
