@@ -7,6 +7,7 @@
  Pictures
  Videos
 [dizz@arch ~]$ cd github;ls
+ dizz-pfeffel.github.io
  dizz-pfeffel
  interests.txt
  gh.key
