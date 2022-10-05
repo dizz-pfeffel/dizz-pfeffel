@@ -50,7 +50,7 @@ Languages: Python
 ` interests.txt`
 
 
-` gh.key`
+` key`
 
 
 ` languages.txt`
