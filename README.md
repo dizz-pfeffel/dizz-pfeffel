@@ -23,4 +23,5 @@ Languages: Bash
            HTML
            Javascript
                |- NodeJS
-[dizz@arch ~]$ reboot```
+[dizz@arch ~]$ reboot
+```
