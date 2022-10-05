@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-```[dizz@arch ~]$ ls
+```
+[dizz@arch ~]$ ls
  Desktop
  Documents
  Downloads
@@ -7,6 +7,7 @@
  Pictures
  Videos
 [dizz@arch ~]$ cd github;ls
+ dizz-pfeffel.github.io
  dizz-pfeffel
  interests.txt
  gh.key
@@ -15,10 +16,14 @@
 Interests: Finding security vulnerabilities
            Linux privilege escalation
            Having fun with scripting languages
-Languages: Python
-           Bash
+           Webhacking
+Languages: Bash
+           CSS
+           Golang
+           HTML
            Javascript
                |- NodeJS
+<<<<<<< HEAD
 [dizz@arch ~]$ reboot```
 =======
 `[dizz@arch ~]$ ls`
@@ -82,3 +87,8 @@ Languages: Python
 
 `[dizz@arch ~]$ reboot`
 >>>>>>> 3109d1a6140366b983eb041f0bd14ad89839db5d
+=======
+           Python
+[dizz@arch ~]$ reboot
+```
+>>>>>>> 54b05795519dd5267cedbf1522edde198fb48195
