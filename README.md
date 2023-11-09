@@ -7,7 +7,7 @@ I'm a pentester and programmer with 2.5 years of experience. Passionate about se
 - Skills: Pentesting, Scripting, Automation
 
 🔭 Current Project
-- [ServerPY](https://github.com/dizz332/serverPY) - A server that allows for encrypted communication for authentication. 
+
 
 📫 Get in Touch
 - Discord: dizz332
