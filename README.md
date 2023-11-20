@@ -11,3 +11,5 @@ I'm a pentester and programmer with 2.5 years of experience. Passionate about se
 
 📫 Get in Touch
 - Discord: dizz332
+- Jabber/XMPP: [dizz@xmpp.cz](xmpp:dizz@xmpp.cz)
+- Email: [dizz@riseup.net](mailto:dizz@riseup.net)
